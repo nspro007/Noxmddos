@@ -1,4 +1,4 @@
 # Replace with your actual bot token
-TOKEN = '7534823163:AAEceD0HFpwWwIdst5ff4RhyStZ8CkRtItI'
+TOKEN = '8026667989:AAHLLsMKgKVilShJPa3LKnB7w6K-HMfBv7w'
 # Admin ID
-ADMIN_ID = 1847934841 
+ADMIN_ID = 8016031926 
